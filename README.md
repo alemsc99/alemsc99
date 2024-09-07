@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Masters degree student at Politecnico di Torino, I am studying Artificial Intelligence and Data Analysis.
+I am a Master's degree student at Politecnico di Torino, I am studying Artificial Intelligence and Data Analysis.
 
 
 ## 🌐 Socials:
